@@ -182,10 +182,18 @@ def start(scraper, guild, channel, day=None):
     if day.year <= 2014:
         exit(0)
         
-    # The smallest snowflake that Discord recognizes is from January 1, 2015.
 #    while day > datetime(2021, 6, 28):
-    while day > datetime(2021, 6, 25):
-        print("Only scraping recent data...")
+    # want to get data on the last 3 days
+    a_date = datetime.today()
+    days = timedelta(3)
+    new_date = a_date - days
+    print("Todays date subtracted by three days: {}".format(new_date))
+    
+    # The smallest snowflake that Discord recognizes is from January 1, 2015.
+    while day > new_date:
+        print("Scraping Data...")
+        print("Starting Date: {}".format(new_date))
+        print("End Date: {}".format(day))
         day = startGuild(scraper, guild, channel, day)
 
 if __name__ == '__main__':
