@@ -1,0 +1,54 @@
+{
+    "total_results": 1,
+    "messages": [
+        [
+            {
+                "id": "858122888640069664",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Weekly/Daily Recap**",
+                        "description": "**\ud83d\uddd3 Date:** 6/25",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/858122885779685386/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/858122885779685386/image0.png",
+                            "width": 1255,
+                            "height": 1884
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-25T23:13:59.804000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "5a27dc92a92c9307bbe4da272137ec54"
+}
