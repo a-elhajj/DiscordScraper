@@ -19,3 +19,7 @@ def pullPrice(ticker, expiry, strike, call):
 
     result = (bid, ask)
     return result
+
+pullPrice('AAPL', '2021-07-16', 140, 'C')
+
+
