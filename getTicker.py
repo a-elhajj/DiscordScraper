@@ -39,7 +39,6 @@ dataAll = []
 for k,v in data.items():
     if k == 'messages':
         length = len(v)
-        print(length)
         for i in range(0,length):
             embeds = v[i][0]['embeds'][0]['title']
             timestamp = v[i][0]['timestamp']
@@ -59,7 +58,7 @@ for k,v in data.items():
                 tmp['Other'] = tmp['Embeds'].split()[4:]
             if tmp['Embeds'].split()[0] not in ('BTO', 'STC'):
                 tmp['Format'] = 0
+            
 
             dataAll.append(tmp)
-        
 
