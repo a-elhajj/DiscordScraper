@@ -187,7 +187,7 @@ def start(scraper, guild, channel, day=None):
     a_date = datetime.today()
     days = timedelta(1)
     new_date = a_date - days
-    print("Todays date subtracted by three days: {}".format(new_date))
+    print("Todays date subtracted by one day: {}".format(new_date))
     
     # The smallest snowflake that Discord recognizes is from January 1, 2015.
     while day > new_date:
@@ -196,28 +196,3 @@ def start(scraper, guild, channel, day=None):
         print("End Date: {}".format(day))
         day = startGuild(scraper, guild, channel, day)
 
-if __name__ == '__main__':
-    """
-    This is the entrypoint for our script since __name__ is going to be set to __main__ by default.
-    """
-
-    # Create a variable that references the Discord Scraper class.
-    discordscraper = DiscordScraper()
-
-    # Iterate through the guilds to scrape.
-    for guild, channels in discordscraper.guilds.items():
-
-        # Iterate through the channels to scrape in the guild.
-        for channel in channels:
-
-            # Retrieve the datetime object for the most recent post in the channel.
-            lastdate = getLastMessageGuild(discordscraper, guild, channel)
-
-            # Start the scraper for the current channel.
-            start(discordscraper, guild, channel, lastdate)
-    
-    # Iterate through the direct messages to scrape.
-    for alias, channel in discordscraper.directs.items():
-
-        # Start the scraper for the current direct message.
-        startDM(discordscraper, alias, channel)

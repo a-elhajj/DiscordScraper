@@ -17,8 +17,9 @@ from datetime import datetime, timedelta
 import configparser
 
 from dataPull import pullPrice
-
+    
 use_old = True
+
 
 """
 STC = Sell To Close
@@ -63,21 +64,13 @@ def check_date(data_path, server_name, room):
         todays_date_new = todays_date_str[0:4] + '_' + month + '_' + day
 
     filename = todays_date_new + '.cache.json'
+    print('Collecting Order Info from this json file: {}'.format(filename))
     
     filepath = data_path + server_name + room + '/' + filename
     
     file_exists = path.exists(filepath)
     
     return file_exists, filepath
-
-data_path = "./cached/"
-server_name = "814189734884409364_Rags To Riches Trading/"
-room1 = '817816874993451038_🚨︱moneybags-daytrades' 
-room2 = '838942842000637992_🚨︱stonk-king-options'
-room3 = '844627582074093598_🚨︱rich-penny-swings'
-
-#file_exists, filepath = check_date(data_path, server_name, room2)
-
 
 def getTodaysData(data_path, server_name, room):
     file_exists, filepath = check_date(data_path, server_name, room)
@@ -91,10 +84,6 @@ def getTodaysData(data_path, server_name, room):
         Option to use yesterday's post?
         """
         pass
-
-#d_today = getTodaysData(data_path, server_name, room2)
-
-
 
 def get_order_info(data_path, server_name, room):
     data = getTodaysData(data_path, server_name, room)
@@ -162,8 +151,6 @@ def get_most_current_order(data_path, server_name, room):
             count+=1
             if count == 1:
                 return current_order
-          
-#d_curr = get_most_current_order(data_path, server_name, room2)
 
 """
 Validate Limit Price using dataPull.py
@@ -173,8 +160,6 @@ def validateyFinance(data_path, server_name, room):
     data['bid'], data['ask'] = pullPrice(data['Ticker'], data['Expiry Date'], float(data['Strike Price']), data['Call Or Put'])
     
     return data
-
-#curr=get_most_current_order(dataAll)
 
 """
 Write order to .ini file

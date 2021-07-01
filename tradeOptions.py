@@ -19,6 +19,35 @@ import os
 from getTicker import writeConfig
 from dataPull import pullPrice
 
+from discord import *
+from module import DiscordScraper
+from datetime import timedelta, datetime
+from os import _exit as exit
+from module.DiscordScraper import loads
+
+
+def run_discord_scraper():
+    """
+    This is the entrypoint for our script since __name__ is going to be set to __main__ by default.
+    """
+
+    # Create a variable that references the Discord Scraper class.
+    discordscraper = DiscordScraper()
+
+    # Iterate through the guilds to scrape.
+    for guild, channels in discordscraper.guilds.items():
+
+        # Iterate through the channels to scrape in the guild.
+        for channel in channels:
+
+            # Retrieve the datetime object for the most recent post in the channel.
+            lastdate = getLastMessageGuild(discordscraper, guild, channel)
+
+            # Start the scraper for the current channel.
+            return start(discordscraper, guild, channel, lastdate)
+
+
+
 # get most recent .ini file (most recent order file)
 list_of_files = glob.glob('./orders/*') # * means all if need specific format then *.csv
 latest_file = max(list_of_files, key=os.path.getctime)
@@ -27,6 +56,12 @@ print(latest_file)
 
 """
 ARGUEMENT ARGPARSE FOR TRADE, TRADEOPTION, OR SELL
+"""
+
+"""
+TODO: ADD STOP LOSS AND LIMIT SELL OPTIONS. FOR LIMIT SELL COULD JUST RESUSE
+ORDER WITH ACTION = 'SELL' INSTEAD OF BUY
+
 """
 
 """
@@ -218,6 +253,11 @@ class IBapi(EWrapper, EClient):
 #        AuxPrice = 0
         
         #Create stop loss order object
+        # Kind of a limit sell right now..
+        """ ADD FOLLOWING TO MAKE IT STOP LOSS ORDER
+        stop_order.orderType = 'STP'
+        stop_order.auxPrice = '1.09'
+        """
         stop_order = Order()
         stop_order.action = 'SELL'
         stop_order.totalQuantity = Quantity
@@ -305,8 +345,8 @@ def main(Ticker: str, SecurityType: str, Currency: str,
     print('app.nextorderId: {}'.format(app.nextorderId))
     print('order.orderId: {}'.format(order.orderId))
     print('stop_order.orderId: {}'.format(stop_order.orderId))
-#    app.placeOrder(order.orderId, contract, order)
-    app.placeOrder(stop_order.orderId, contract, stop_order)
+    app.placeOrder(order.orderId, contract, order)
+#    app.placeOrder(stop_order.orderId, contract, stop_order)
     app.nextorderId += 1
     
     time.sleep(3)
@@ -314,7 +354,8 @@ def main(Ticker: str, SecurityType: str, Currency: str,
     
 
 if __name__ == "__main__":
-    
+    run_discord_scraper()
+    time.sleep(5)
     writeConfig(data_path, server_name, room = room2)
     
     config = configparser.ConfigParser()
