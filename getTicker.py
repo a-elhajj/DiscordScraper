@@ -16,7 +16,9 @@ from datetime import datetime, timedelta
 
 import configparser
 
+from dataPull import pullPrice
 
+use_old = True
 
 """
 STC = Sell To Close
@@ -28,15 +30,7 @@ unless the guy writes calls too which i highly doubt
 then for 79C it can also be 79P which is a put
 """
 
-data_path = "./cached/"
-server_name = "814189734884409364_Rags To Riches Trading/"
-room1 = '817816874993451038_🚨︱moneybags-daytrades' 
-room2 = '838942842000637992_🚨︱stonk-king-options'
-room3 = '844627582074093598_🚨︱rich-penny-swings'
-
-todays_date = str(datetime.today())[:19].replace(' ', '-')
-
-def check_date(data_path, server_name, room, use_old = False):
+def check_date(data_path, server_name, room):
     """
     Check if there was a post today
     """
@@ -76,104 +70,142 @@ def check_date(data_path, server_name, room, use_old = False):
     
     return file_exists, filepath
 
-file_exists, filepath = check_date(data_path, server_name, room2, use_old = True)
+data_path = "./cached/"
+server_name = "814189734884409364_Rags To Riches Trading/"
+room1 = '817816874993451038_🚨︱moneybags-daytrades' 
+room2 = '838942842000637992_🚨︱stonk-king-options'
+room3 = '844627582074093598_🚨︱rich-penny-swings'
+
+#file_exists, filepath = check_date(data_path, server_name, room2)
 
 
-if file_exists is True:
-    print("Post was made today!, Can import today's data")
-    with open(filepath, "r") as j:
-        data=json.load(j)
-else:
-    """
-    Option to use yesterday's post?
-    """
-    pass
-
-
-
-length = len([v for k,v in data.items() if k=='messages'][0])
-embedded_data = [v for k,v in data.items() if k=='messages'][0]
-dataAll = []
-for i in range(0,length):
-    embeds = embedded_data[i][0]['embeds'][0]['title']
-    timestamp = embedded_data[i][0]['timestamp']
-    if embeds.split()[0] in ('BTO', 'STC'):
-        date_formatted = embeds.split()[3].split('/')
-        if len(date_formatted[0]) == 1:
-            month = '0' + date_formatted[0]
-        if len(date_formatted[1]) == 1:
-            day = '0' + date_formatted[1]
-        date_expiry = '2021' + month + day
-        if embeds.split()[0] == 'BTO':
-            action = 'BUY'
-        else:
-            action = 'SELL'
-        tmp = {'Action Symbol': embeds.split()[0], 
-               'Action': action,
-               'Ticker': embeds.split()[1], 
-               'Strike Price': embeds.split()[2][:-1], 
-               'Call Or Put': embeds.split()[2][-1:],
-               'Expiry Date': date_expiry,
-               'Other': [x.lower().replace("=", "")  for x in embeds.split()[4:]]}
-        
-        if 'entry' in tmp['Other']:
-            if tmp['Other'][1][0] == '.':
-                tmp['Limit Price'] = '0' + tmp['Other'][1]
-            else:
-                tmp['Limit Price'] = tmp['Other'][1]
-        
-        dataAll.append(tmp)
+def getTodaysData(data_path, server_name, room):
+    file_exists, filepath = check_date(data_path, server_name, room)
+    if file_exists is True:
+        print("Post was made today!, Can import today's data")
+        with open(filepath, "r") as j:
+            data=json.load(j)
+        return data
     else:
         """
-        For later purposes, we will do something with cases not starting in BTO/STC
-        if tmp['Embeds'].split()[0] not in ('BTO', 'STC'):
-            tmp['Format'] = 0
+        Option to use yesterday's post?
         """
         pass
 
+#d_today = getTodaysData(data_path, server_name, room2)
+
+
+
+def get_order_info(data_path, server_name, room):
+    data = getTodaysData(data_path, server_name, room)
+    length = len([v for k,v in data.items() if k=='messages'][0])
+    
+    embedded_data = [v for k,v in data.items() if k=='messages'][0]
+    
+    dataAll = []
+    for i in range(0,length):
+        embeds = embedded_data[i][0]['embeds'][0]['title']
+
+#        timestamp = embedded_data[i][0]['timestamp']
+        if embeds.split()[0] in ('BTO', 'STC'):
+            date_formatted = embeds.split()[3].split('/')
+            if len(date_formatted[0]) == 1:
+                month = '0' + date_formatted[0]
+            if len(date_formatted[1]) == 1:
+                day = '0' + date_formatted[1]
+            date_expiry = '2021' + month + day
+            if embeds.split()[0] == 'BTO':
+                action = 'BUY'
+            else:
+                action = 'SELL'
+                
+            tmp = {'Action Symbol': embeds.split()[0], 
+                   'Action': action,
+                   'Ticker': embeds.split()[1], 
+                   'Strike Price': embeds.split()[2][:-1], 
+                   'Call Or Put': embeds.split()[2][-1:],
+                   'Expiry Date': date_expiry,
+                   'Other': [x.lower().replace("=", "")  for x in embeds.split()[4:]]}
+
+            if 'entry' in tmp['Other']:
+                if tmp['Other'][1][0] == '.':
+                    tmp['Limit Price'] = '0' + tmp['Other'][1]
+                else:
+                    tmp['Limit Price'] = tmp['Other'][1]
+            dataAll.append(tmp)
+    return dataAll
+
+"""
+For later purposes, we will do something with cases not starting in BTO/STC
+if tmp['Embeds'].split()[0] not in ('BTO', 'STC'):
+    tmp['Format'] = 0
+"""
+    
 
 
 """
 Which order to go through with?
 Latest one for now
 """
-def get_most_current_order(data):
+def get_most_current_order(data_path, server_name, room):
     """ Gets most current order
+    
+    MUST BE BTO, STC WIP
     """
     bad_words = ['trim', 'closing', 'trimming', 'selling', 'all out', 'sold']
     good_words = 'entry'
     count=0
+    data = get_order_info(data_path, server_name, room)
     for idx,lst in enumerate(data):
         if good_words in lst['Other']:
             current_order = data[idx]
             count+=1
             if count == 1:
                 return current_order
-            
-curr=get_most_current_order(dataAll)
+          
+#d_curr = get_most_current_order(data_path, server_name, room2)
+
+"""
+Validate Limit Price using dataPull.py
+"""
+def validateyFinance(data_path, server_name, room):
+    data = get_most_current_order(data_path, server_name, room)
+    data['bid'], data['ask'] = pullPrice(data['Ticker'], data['Expiry Date'], float(data['Strike Price']), data['Call Or Put'])
+    
+    return data
+
+#curr=get_most_current_order(dataAll)
 
 """
 Write order to .ini file
 """
 
-write_config = configparser.ConfigParser()
+def writeConfig(data_path, server_name, room):
+    """
+    Something to differentiate between options and regular trade...?
+    """
+    todays_date = str(datetime.today())[:19].replace(' ', '-')
 
-write_config.add_section("Order Info")
-write_config.set("Order Info",'Action', curr['Action'])
-write_config.set("Order Info",'Action Symbol', curr['Action Symbol'])
-write_config.set("Order Info",'Ticker', curr['Ticker'])
-write_config.set("Order Info",'Strike Price', curr['Strike Price'])
-write_config.set("Order Info",'Call Or Put', curr['Call Or Put'])
-write_config.set("Order Info",'Expiry Date', curr['Expiry Date'])
-write_config.set("Order Info",'Other', ' '.join(curr['Other']))
-write_config.set("Order Info",'Limit Price', curr['Limit Price'])
+    data = validateyFinance(data_path, server_name, room)
+    
+    write_config = configparser.ConfigParser()
+    
+    write_config.add_section("Order Info")
+    write_config.set("Order Info",'Action', data['Action'])
+    write_config.set("Order Info",'Action Symbol', data['Action Symbol'])
+    write_config.set("Order Info",'Ticker', data['Ticker'])
+    write_config.set("Order Info",'Strike Price', data['Strike Price'])
+    write_config.set("Order Info",'Call Or Put', data['Call Or Put'])
+    write_config.set("Order Info",'Expiry Date', data['Expiry Date'])
+    write_config.set("Order Info",'Other', ' '.join(data['Other']))
+    write_config.set("Order Info",'Limit Price', str(data['bid']))
+#    write_config.set("Order Info",'Limit Price', data['Limit Price'])
+    
+    order_path = './orders/'
+    cfgfile = open(join(order_path, "order_{}.ini".format(todays_date)),'w')
+    write_config.write(cfgfile)
+    cfgfile.close()
 
-
-
-order_path = './orders/'
-cfgfile = open(join(order_path, "test_{}.ini".format(todays_date)),'w')
-write_config.write(cfgfile)
-cfgfile.close()
 
 
 

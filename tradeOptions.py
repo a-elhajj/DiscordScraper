@@ -16,17 +16,18 @@ import configparser
 import glob
 import os
 
-from getTicker import *
+from getTicker import writeConfig
+from dataPull import pullPrice
 
+# get most recent .ini file (most recent order file)
 list_of_files = glob.glob('./orders/*') # * means all if need specific format then *.csv
 latest_file = max(list_of_files, key=os.path.getctime)
 print(latest_file)
 
 
-config = configparser.ConfigParser()
-config.read(latest_file)
-defaults = config['Order Info']
-
+"""
+ARGUEMENT ARGPARSE FOR TRADE, TRADEOPTION, OR SELL
+"""
 
 """
 Parameters
@@ -49,6 +50,14 @@ AllOrNone = True
 #AuxPrice = 0
 Transmit = True
 
+data_path = "./cached/"
+server_name = "814189734884409364_Rags To Riches Trading/"
+room1 = '817816874993451038_🚨︱moneybags-daytrades' 
+room2 = '838942842000637992_🚨︱stonk-king-options'
+room3 = '844627582074093598_🚨︱rich-penny-swings'
+
+"""TODO: ADD TRADE/SELL TO CLASS
+"""
 class IBapi(EWrapper, EClient):
     
     def __init__(self):
@@ -124,10 +133,10 @@ class IBapi(EWrapper, EClient):
         return self.contract_details[reqId].contract
     
     def start(self,
-              Ticker: str, SecurityType: str, ExpiryDate: str, 
-              StrikePrice: float, CallOrPut: str, Currency: str,
+              Ticker: str, SecurityType: str, Currency: str,
               Action: str, Quantity: float, OrderType: str, ValidTime: str, 
-              AllOrNone: bool, LimitPrice: float, Transmit: bool
+              AllOrNone: bool, LimitPrice: float, Transmit: bool, SellPrice: float,
+              ExpiryDate: str = None, StrikePrice: str = None, CallOrPut: str = None,
               ):
         """
         ######################################################################
@@ -139,9 +148,12 @@ class IBapi(EWrapper, EClient):
         ExpiryDate: The contract's last trading day or contract month (for Options and Futures). (string)
             Strings with format YYYYMM will be interpreted as the Contract Month 
             YYYYMMDD will be interpreted as Last Trading Day.
+            ONLY FOR OPTIONS TRADES
         StrikePrice: The option's strike price. (double/float)
+            ONLY FOR OPTIONS TRADES
         CallOrPut: Either Put or Call (i.e. Options). (string)
             Valid values are P, PUT, C, CALL.
+            ONLY FOR OPTIONS TRADES
         Currency: The underlying's currency. (string)
         PrimaryExch: The contract's primary exchange. (string)
             For smart routed contracts, used to define contract in case of ambiguity. 
@@ -171,14 +183,20 @@ class IBapi(EWrapper, EClient):
             NOT REALLY NEEDED RIGHT NOW, REMOVED.
         Transmit: Specifies whether the order will be transmitted by TWS. (bool)
             If set to false, the order will be created at TWS but will not be sent.
+        ##### STOP LOSS OR SELL PRICE
+        SellPrice: Bid/Ask Price to sell options contract
+        
         Order Resources: https://interactivebrokers.github.io/tws-api/classIBApi_1_1Order.html
         """
+
         contract = Contract()
-        contract.symbol = Ticker   
+        contract.symbol = Ticker
         contract.secType = SecurityType #OPT
-        contract.lastTradeDateOrContractMonth = ExpiryDate #20210716
-        contract.strike = StrikePrice #140
-        contract.right = CallOrPut # call option #C
+        if SecurityType == 'OPT':
+            contract.lastTradeDateOrContractMonth = ExpiryDate #20210716
+            contract.strike = StrikePrice #140
+            contract.right = CallOrPut # call option #C
+            
         contract.currency = Currency #USD
 #        contract.primaryExchange = str(PrimaryExch) #NASDAQ
         contract.exchange = "SMART"
@@ -193,13 +211,29 @@ class IBapi(EWrapper, EClient):
         order.allornone = AllOrNone #True
         if order.orderType == 'LMT':
             order.lmtPrice = LimitPrice # verify with options chain first
-        order.transmit = Transmit
+        order.orderId = self.nextorderId
+#        self.nextorderId += 1
+        order.transmit = False
+        
 #        AuxPrice = 0
+        
+        #Create stop loss order object
+        stop_order = Order()
+        stop_order.action = 'SELL'
+        stop_order.totalQuantity = Quantity
+        stop_order.orderType = 'LMT' # STP
+        stop_order.lmtPrice = SellPrice
+        stop_order.allornone = AllOrNone #True
+        stop_order.orderId = self.nextorderId
+#        self.nextorderId += 1
+        stop_order.parentId = order.orderId
+        order.transmit = True
         
         """
         Verification of limit price here...
         """
-        return contract, order
+        return contract, order, stop_order
+    
     
     def stop(self):
         self.done = True
@@ -208,10 +242,37 @@ class IBapi(EWrapper, EClient):
     def cancel(self):
         self.cancelOrder(self.nextorderId)
         
-def main(Ticker: str, SecurityType: str, ExpiryDate: str, StrikePrice: float, 
-         CallOrPut: str, Currency: str, 
+        
+        
+def calculate_sell_price():
+    
+    """
+    Some algo to determine when to take profits.
+    50% increase in limit price for now...?
+    """
+    config = configparser.ConfigParser()
+    config.read(latest_file)
+#    defaults = config['Order Info']
+
+    Ticker = config.get('Order Info', 'Ticker')
+    ExpiryDate = config.get('Order Info', 'Expiry Date')
+    StrikePrice = config.get('Order Info', 'Strike Price')
+    CallOrPut = config.get('Order Info', 'Call Or Put')
+    
+    bid, ask = pullPrice(Ticker, ExpiryDate, float(StrikePrice), CallOrPut)
+    
+    bid_sell_price = round(bid * 1.5, 2)
+#    ask_sell_price = round(ask * 1.5, 3)
+    
+    return bid_sell_price
+    
+    
+    
+
+def main(Ticker: str, SecurityType: str, Currency: str, 
          Action: str, Quantity: float, OrderType: str, ValidTime: str, 
-         AllOrNone: bool, LimitPrice: float, Transmit: bool):
+         AllOrNone: bool, LimitPrice: float, Transmit: bool, SellPrice: float,
+         ExpiryDate: str, StrikePrice: str, CallOrPut: str):
     
     def run_loop():
         	app.run()
@@ -234,14 +295,18 @@ def main(Ticker: str, SecurityType: str, ExpiryDate: str, StrikePrice: float,
             print('waiting for connection')
             time.sleep(1)
             
-    contract, order = app.start(
-                                Ticker, SecurityType, ExpiryDate, StrikePrice, 
-                                CallOrPut, Currency,
-                                Action, Quantity, OrderType, ValidTime, AllOrNone, 
-                                LimitPrice, Transmit
-                                )
-
-    app.placeOrder(app.nextorderId, contract, order)
+    contract, order, stop_order = app.start(
+                                            Ticker, SecurityType, Currency,
+                                            Action, Quantity, OrderType, ValidTime, 
+                                            AllOrNone, LimitPrice, Transmit, 
+                                            SellPrice, ExpiryDate, StrikePrice, 
+                                            CallOrPut
+                                            )
+    print('app.nextorderId: {}'.format(app.nextorderId))
+    print('order.orderId: {}'.format(order.orderId))
+    print('stop_order.orderId: {}'.format(stop_order.orderId))
+#    app.placeOrder(order.orderId, contract, order)
+    app.placeOrder(stop_order.orderId, contract, stop_order)
     app.nextorderId += 1
     
     time.sleep(3)
@@ -249,22 +314,36 @@ def main(Ticker: str, SecurityType: str, ExpiryDate: str, StrikePrice: float,
     
 
 if __name__ == "__main__":
+    
+    writeConfig(data_path, server_name, room = room2)
+    
+    config = configparser.ConfigParser()
+    config.read(latest_file)
+    defaults = config['Order Info']
+    
+    sellPrice = calculate_sell_price()
     main(
         Ticker = config.get('Order Info', 'Ticker'),
         SecurityType = SecurityType,
-        ExpiryDate = config.get('Order Info', 'Expiry Date'),
-        StrikePrice = config.get('Order Info', 'Strike Price'),
-        CallOrPut = config.get('Order Info', 'Call Or Put'),
         Currency = Currency,
         Action = config.get('Order Info', 'Action'),
         Quantity = Quantity,
         OrderType = OrderType,
         ValidTime = ValidTime,
         AllOrNone = AllOrNone,
-        LimitPrice = config.get('Order Info', 'Limit Price'), 
+        LimitPrice = config.get('Order Info', 'Limit Price'),
         Transmit = Transmit,
+        SellPrice = sellPrice,
+        ExpiryDate = config.get('Order Info', 'Expiry Date'),
+        StrikePrice = config.get('Order Info', 'Strike Price'),
+        CallOrPut = config.get('Order Info', 'Call Or Put'),
         )
     
     
-    
+"""
+TODO: TEXT BEFORE main() is run and confirm  trade. SEND ALL DETAILS TO TEXT
+PRESS 1 TO CONFIRM ORDER
+PRESS 2 TO CANCEL ORDER
+VIEW LIMIT PRICE FROM SCRAPE (DISCORD) VS LIMIT PRICE ON YFINANCE
+"""
     
