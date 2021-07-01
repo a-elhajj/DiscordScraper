@@ -88,8 +88,12 @@ def decode(the_type, fields, show_unset = False):
         else:
             n = the_type(s)
     else:
-        n = the_type(s or 0)
-
+        try:
+            n = the_type(s or 0)
+        except ValueError:
+            s = b''
+            n = the_type(s or 0)
+        
     if orig_type is bool:
         n = False if n == 0 else True
 

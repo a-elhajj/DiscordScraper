@@ -185,7 +185,7 @@ def start(scraper, guild, channel, day=None):
 #    while day > datetime(2021, 6, 28):
     # want to get data on the last 3 days
     a_date = datetime.today()
-    days = timedelta(3)
+    days = timedelta(1)
     new_date = a_date - days
     print("Todays date subtracted by three days: {}".format(new_date))
     
