@@ -1,0 +1,48 @@
+{
+    "total_results": 1,
+    "messages": [
+        [
+            {
+                "id": "860208160602456074",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Haven\u2019t had stable internet today. Won\u2019t alert until it\u2019s completely stable since my plays are fast moving and I want to continue to give you updates. Hopefully it\u2019s all good by tomorrow! DM me with any questions. Will work on updating my spreadsheet today.",
+                        "color": 15415860,
+                        "timestamp": "2021-07-01T17:20:04.271000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-07-01T17:20:07.382000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "951dd548c031f8029e628d9b82b17568"
+}

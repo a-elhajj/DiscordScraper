@@ -1,0 +1,1812 @@
+{
+    "total_results": 39,
+    "messages": [
+        [
+            {
+                "id": "859886946893430814",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "*Daily/Weekly Recap* **OPEN SWINGS**",
+                        "description": "**\ud83d\uddd3 Date:** 6/29\n\n*Comments:* Not a bad day or week\n\ud83d\udfe2 AMD **220%**\n\nClosed this week\n\ud83d\udfe2 CSIQ **360**\n\nGot many more opened positions. Feel free to DM me",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859886942936891422/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859886942936891422/image0.png",
+                            "width": 1284,
+                            "height": 180
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T20:03:44.066000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859884226166128700",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** FSLY\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 63\n\n**\ud83d\udcb2 P/L:** -13%\n\n**\ud83d\udcac Comments:** Cut losses here if you don\u2019t want to swing it",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859884221137289259/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859884221137289259/image0.png",
+                            "width": 1284,
+                            "height": 340
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:52:55.394000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859882342696222730",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 220\n\n**\ud83d\udcac Comments:** Looks like the 2 are doing well together",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859882335788335104/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859882335788335104/image0.png",
+                            "width": 1284,
+                            "height": 306
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:45:26.340000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859881902918729758",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 212%\n\n**\ud83d\udcac Comments:** Trimmed some here. Leaving 2 runners so they can give each other a booster when one is tired",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859881899262214184/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859881899262214184/image0.png",
+                            "width": 1284,
+                            "height": 327
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:43:41.489000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859877679988473947",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** SPWR\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** -50%\n\n**\ud83d\udcb2 P/L:** Strike 31.5\n\n**\ud83d\udcac Comments:** Down 50%. I do red plays too. I kinda diamond hand my plays. A little embarrassing \ud83d\ude48",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859877675702157353/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859877675702157353/image0.png",
+                            "width": 1284,
+                            "height": 339
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:26:54.664000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859875565392887818",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** FSLY\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 63\n\n**\ud83d\udcb2 P/L:** -2%\n\n**\ud83d\udcac Comments:** This is going to be very volatile. Highly shorted stock. Make sure to manage risk. I\u2019m swinging it until tomorrow to see what it does",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:18:30.505000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859874127250849802",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 180\n\n**\ud83d\udcac Comments:** All we do is prinnnnnnmt",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859874123971166228/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859874123971166228/image0.png",
+                            "width": 1284,
+                            "height": 317
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:12:47.625000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859873418919936010",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** NIO\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 55\n\n**\ud83d\udcb2 P/L:** 5%\n\n**\ud83d\udcac Comments:** Average 1.62",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859873416085897276/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859873416085897276/image0.png",
+                            "width": 1284,
+                            "height": 328
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:09:58.746000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859872166534840388",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** A@D\n\n**\ud83d\udcc5 Expiry:** AMD 7/16\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 166%\n\n**\ud83d\udcac Comments:** Make sure to protect your gains by setting stop loss",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859872163685990430/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859872163685990430/image0.png",
+                            "width": 1284,
+                            "height": 343
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:05:00.154000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859871812031348806",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** NIO\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 55\n\n**\ud83d\udcb2 P/L:** 1%\n\n**\ud83d\udcac Comments:** Filled at 1.60",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859871808479952917/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859871808479952917/image0.png",
+                            "width": 1284,
+                            "height": 321
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:03:35.634000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859871253748776970",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":green_circle: **CALL** *buy to open*",
+                        "description": "**\ud83d\udcb0 Ticker:** NIO\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 55\n\n**\ud83c\udfc1 Entry:** 1.55-1.58\n\n**\ud83d\uded1 Stop loss:** 10-30%\n\n**\ud83d\udcac Comments:** Light",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T19:01:22.529000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859867947858132992",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** FSLY\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 63\n\n**\ud83d\udcb2 P/L:** 10%\n\n**\ud83d\udcac Comments:** That was scary? Wild swing. Reason why we go light on short squeeze plays",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859867944334524456/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859867944334524456/image0.png",
+                            "width": 1284,
+                            "height": 321
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T18:48:14.343000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859839906402795530",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** POWW\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 1\n\n**\ud83d\udcb2 P/L:** 10c. 16%\n\n**\ud83d\udcac Comments:** Have one runner",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859839902938169394/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859839902938169394/image0.png",
+                            "width": 1284,
+                            "height": 292
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T16:56:48.739000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859837243455832104",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** FSLY\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 63\n\n**\ud83d\udcb2 P/L:** 5%\n\n**\ud83d\udcac Comments:** Average 1.69. One more. Let\u2019s go",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859837240318623804/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859837240318623804/image0.png",
+                            "width": 1284,
+                            "height": 321
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T16:46:13.843000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859836924351741992",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** MO\n\n**\ud83d\udcc5 Expiry:** 7/30\n\n**\u26a1 Strike:** 50\n\n**\ud83d\udcb2 P/L:** 1%\n\n**\ud83d\udcac Comments:** The ghost came out. Long hold here. Almost 3 weeks now",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859836921398951936/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859836921398951936/image0.png",
+                            "width": 1284,
+                            "height": 324
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T16:44:57.763000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859835233373519913",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":green_circle: **CALL** *buy to open*",
+                        "description": "**\ud83d\udcb0 Ticker:** FSLY\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 63\n\n**\ud83c\udfc1 Entry:** 1.65-1.70\n\n**\ud83d\uded1 Stop loss:** 10-30%\n\n**\ud83d\udcac Comments:** High risk, short squeeze play. Go in light",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T16:38:14.602000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859819527021133865",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Now\n\nComments: Wife ordered me to clean my damn garage and she took over my PC. FML. Will be back to look for calls",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859819521338507284/image0.jpg",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859819521338507284/image0.jpg",
+                            "width": 4032,
+                            "height": 3024
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T15:35:49.916000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859813852609511464",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Today\n\nComments: I APOLOGIZE",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859813849134137364/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859813849134137364/image0.png",
+                            "width": 1284,
+                            "height": 345
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T15:13:17.031000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859811075666083850",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Now\n\nComments: Oh god. Now I feel terrible",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859811072595591209/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859811072595591209/image0.png",
+                            "width": 1284,
+                            "height": 310
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T15:02:14.956000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859810726378209301",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Now\n\nComments: Held back again. Thought this was high risk so didn\u2019t alert",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859810721344520252/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859810721344520252/image0.png",
+                            "width": 1284,
+                            "height": 381
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T15:00:51.679000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859809161960357938",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** POWW\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 10\n\n**\ud83d\udcb2 P/L:** 32%\n\n**\ud83d\udcac Comments:** \ud83d\udca5 powwwww",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859809155850436618/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859809155850436618/image0.png",
+                            "width": 1284,
+                            "height": 313
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T14:54:38.693000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859808955483947028",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "*trim* :scissors: **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** POWW\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 10\n\n**\ud83d\udcb2 P/L:** 20\n\n**\ud83d\udcac Comments:** Trim. \ud83d\udca5 powww powww",
+                        "color": 3066993,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859808952282906654/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859808952282906654/image0.png",
+                            "width": 1284,
+                            "height": 342
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T14:53:49.465000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859804638081450005",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** POWW\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 10\n\n**\ud83d\udcb2 P/L:** 5%\n\n**\ud83d\udcac Comments:** Filled at 0.74. Powww \ud83d\udca5 powww",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859804635544289331/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859804635544289331/image0.png",
+                            "width": 1284,
+                            "height": 329
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T14:36:40.116000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859803170061942805",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":green_circle: **CALL** *buy to open*",
+                        "description": "**\ud83d\udcb0 Ticker:** POWW\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 10\n\n**\ud83c\udfc1 Entry:** 0.70\n\n**\ud83d\uded1 Stop loss:** 10-30%. USE STOP LOSS\n\n**\ud83d\udcac Comments:** No",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T14:30:50.113000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859801626524254268",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "*trim* :scissors: **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 158%\n\n**\ud83d\udcac Comments:** All we do is prinnnnnnnnnt",
+                        "color": 3066993,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859801622037135370/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859801622037135370/image0.png",
+                            "width": 1284,
+                            "height": 331
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T14:24:42.105000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859794172206383155",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 133%\n\n**\ud83d\udcac Comments:** Do as you wish",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859794169471827978/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859794169471827978/image0.png",
+                            "width": 1284,
+                            "height": 336
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:55:04.857000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859793653525774383",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":joystick: *Sell To Close* **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** KTOS\n\n**\ud83d\udcc5 Expiry:** 7/16\n\n**\u26a1 Strike:** 30\n\n**\ud83d\udcb2 P/L:** 88%. Closing remaining runners here\n\n**\ud83d\udcac Comments:** Close",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:53:01.194000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859792685480017952",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Now\n\nComments: Market bouncing. Watching losing trades close. Please manage risk",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859792681629384724/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859792681629384724/image0.png",
+                            "width": 1284,
+                            "height": 568
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:49:10.394000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859792075096588308",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** Another one\n\n**\ud83d\udcac Comments:** Let\u2019s go!!!",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859792071933952020/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859792071933952020/image0.png",
+                            "width": 1284,
+                            "height": 347
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:46:44.867000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859791502271447050",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 84. Next \ud83d\udcaf\n\n**\ud83d\udcac Comments:** Let\u2019s gooooo",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859791498857938984/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859791498857938984/image0.png",
+                            "width": 1284,
+                            "height": 310
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:44:28.295000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859791088894476288",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** VIAC\n\n**\ud83d\udcc5 Expiry:** 7/2\n\n**\u26a1 Strike:** 48\n\n**\ud83d\udcb2 P/L:** Big if you didn\u2019t set stop loss\n\n**\ud83d\udcac Comments:** Making a come back. But BE CAREFUL",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:42:49.738000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859790813968990208",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "*trim* :scissors: **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 65%\n\n**\ud83d\udcac Comments:** Feel free",
+                        "color": 3066993,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859790810664271922/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859790810664271922/image0.png",
+                            "width": 1284,
+                            "height": 334
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:41:44.191000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859790520750571540",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":joystick: *Sell To Close* **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** GRWG\n\n**\ud83d\udcc5 Expiry:** 7/19\n\n**\u26a1 Strike:** 50\n\n**\ud83d\udcb2 P/L:** 110%. Closing remaining runners\n\n**\ud83d\udcac Comments:** No",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:40:34.282000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859788660446199809",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Now\n\nComments: Sorry held back on you guys again",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859788657816764446/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859788657816764446/image0.png",
+                            "width": 1284,
+                            "height": 645
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:33:10.751000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859788414780702770",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "*trim* :scissors: **CALL** position",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** 35%\n\n**\ud83d\udcac Comments:** Trim",
+                        "color": 3066993,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859788411131789322/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859788411131789322/image0.png",
+                            "width": 1284,
+                            "height": 342
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:32:12.180000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859784383548358667",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Today\n\nComments: Just an FYI. Market is looking to open red",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:16:11.059000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859780627610730526",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** Today\n\nComments: AMD is at 90.60 PM. Don\u2019t wait for call outs to trim and set stop loss at break even\n\nI\u2019m also managing my trades. Any trades that I close, I will always alert",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T13:01:15.574000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859754950614450176",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Intraday Market Update**",
+                        "description": "**\ud83d\uddd3 Date:** 6/30\n\nComments: AMD \ud83d\ude80",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T11:19:13.701000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859754391488954368",
+                "type": 0,
+                "content": "<@&845361634250850305>",
+                "channel_id": "845359951295807528",
+                "author": {
+                    "id": "845283488105103371",
+                    "username": "RichPenny Swing Options",
+                    "avatar": "0f4e98f262ceea0073846e6a06d2505b",
+                    "discriminator": "1783",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "CALL position Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AMD\n\n**\ud83d\udcc5 Expiry:** 7/9\n\n**\u26a1 Strike:** 91\n\n**\ud83d\udcb2 P/L:** We will see. But price pushed past $90 PM\n\n**\ud83d\udcac Comments:** Price past $90 PM \ud83d\ude4f\ud83c\udffc",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "845361634250850305"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-30T11:17:00.395000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "b78889d4e9c0cc270ea220208c0fb9ba"
+}

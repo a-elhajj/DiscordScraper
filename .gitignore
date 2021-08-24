@@ -55,6 +55,9 @@ coverage.xml
 *.mo
 *.pot
 
+# jupyter notebooks for building
+*.ipynb
+
 # Django stuff:
 *.log
 local_settings.py

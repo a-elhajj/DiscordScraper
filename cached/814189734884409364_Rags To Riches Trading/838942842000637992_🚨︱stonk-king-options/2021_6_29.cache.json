@@ -1,0 +1,468 @@
+{
+    "total_results": 11,
+    "messages": [
+        [
+            {
+                "id": "859459414225715210",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "$ETSY went above PT1 this morning. Still hovering around PT1 as well. Take some profits",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T15:44:49.589000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T15:44:52.335000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859458060741640202",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC JD 79C 7/2\nAll out from .90 to 1.02.",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T15:39:27.814000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T15:39:29.639000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859457122492088370",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC JD 79C 7/2\nTrim at 1.02, set SL to breakeven",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T15:35:43.805000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T15:35:45.943000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859456372509114429",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "BTO JD 79C 7/2\nEntry= .90",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T15:32:43.820000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T15:32:47.133000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859434892438143006",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC BA 245C 7/2\nClosing entire position from 2 to 2.26",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T14:07:22.589000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T14:07:25.885000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859433343022792764",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC BA 245C 7/2\nTrim at 2.26, set SL to breakeven",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T14:01:12.606000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T14:01:16.476000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859431845284282398",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "BTO BA 245C 7/2\nEntry= 2",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T13:55:17.740000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T13:55:19.387000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859428901880332310",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "sell here at breakeven if you still took that nvda play",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T13:43:18.504000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T13:43:37.625000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859427513529139230",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "scratch that, fakeout this morning",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T13:38:03.970000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T13:38:06.616000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859426816313786398",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "wait on this",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T13:35:18.745000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T13:35:20.387000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859426661233721411",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "BTO NVDA 790P 7/2 HIGH RISK\nEntry= 10",
+                        "color": 15415860,
+                        "timestamp": "2021-06-29T13:34:38.878000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-29T13:34:43.413000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "29eea16e7042a00171e8c9878ced9506"
+}

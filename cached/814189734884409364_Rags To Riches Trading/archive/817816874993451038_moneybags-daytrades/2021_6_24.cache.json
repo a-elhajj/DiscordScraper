@@ -1,0 +1,3011 @@
+{
+    "total_results": 86,
+    "messages": [
+        [
+            {
+                "id": "857683887319678976",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T18:09:33.733000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857683886393524245",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "**Hey everyone just a friendly Reminder about our Day Trading Program**\nWe are accepting a few more people for the month of july, we accept all skill levels from never traded before to trading for years! **This program includes:**\n- 1 on 1 sessions to assess and evaluate your current skill level and what you need to work on\n- Filling in your knowledge gaps \n- Creating a sound trading strategy to make you consistently profitable\n- Teaching you how to use technical indicators \n- Teaching you the ins and outs of screeners\n- Constant learning even after the first month\n- Access to all my live training classes for free as well as the recordings. \n\n**For those of you unfamiliar with my trading style and gains, heres my trade tracker** \nhttps://tinyurl.com/moneybagstradetracker \n\n\n**Day Trading Class 3 Starting Soon** \nWe are now reserving spots for our 3rd day trading class which will be held mid july, we have 100 live seats and then everyone after that will receive a recording of it, In this class we will cover:\n-Technical Indicator Types\n- Specific Day Trading Indicators\n- What indicators I use\n- What values to set your indicators to\n- How to use these indicators\n- The importance of volume and how to interpret it\n- Entry and Exit strategies with Indicators and Volume",
+                        "timestamp": "2021-06-24T18:09:33.363000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T18:09:33.512000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857682239897862164",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T18:03:00.957000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857682237734780929",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":chart_with_upwards_trend: Daily Summary :chart_with_upwards_trend:",
+                        "description": "Todays trades were a lot tougher, low volume and overall bearish stocks made it hard to do anythign other than tiny quick scalps, played into the afternoon a bit, no doubt these stocks will rise more but I wanted to close out the trades for the day! if you ended green today good job guys it wasn't an easy one!",
+                        "color": 255,
+                        "timestamp": "2021-06-24T18:03:00.312000+00:00",
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/834460425772466176/857682231752917023/Screenshot_2021-06-24_110151.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/834460425772466176/857682231752917023/Screenshot_2021-06-24_110151.png",
+                            "width": 658,
+                            "height": 229
+                        },
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T18:03:00.441000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857681386532765696",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T17:59:37.499000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857681385069215824",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":small_orange_diamond: Update :small_orange_diamond:",
+                        "description": "all positions are closed on my end here, Ill update the tracker",
+                        "color": 16762880,
+                        "timestamp": "2021-06-24T17:59:36.893000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T17:59:37.150000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857675223024533514",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T17:35:08.004000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857675221309456425",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":small_orange_diamond: Update :small_orange_diamond:",
+                        "description": "AUUD up 10% and MRIN up 10% as well",
+                        "color": 16762880,
+                        "timestamp": "2021-06-24T17:35:07.471000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T17:35:07.595000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857662603411849286",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T16:44:59.254000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857662602008199228",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":small_orange_diamond: Update :small_orange_diamond:",
+                        "description": "up 9% on AUUD so far!",
+                        "color": 16762880,
+                        "timestamp": "2021-06-24T16:44:58.739000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T16:44:58.919000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857653882713014273",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T16:10:20.077000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857653881692880938",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":small_orange_diamond: Update :small_orange_diamond:",
+                        "description": "ORPH double bottom lookin juicy OSW sitting around entry, MRIN went as high as 2.72 so far and AUUUD hit PT but you can still hold for extra profits",
+                        "color": 16762880,
+                        "timestamp": "2021-06-24T16:10:19.767000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T16:10:19.834000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857644481100513300",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:32:58.558000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857644480025853972",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":dart:  Price Target Hit :dart:",
+                        "description": "AUUD actually hit PT very fast, you can continue to hold if you want or take your profits here",
+                        "color": 65280,
+                        "timestamp": "2021-06-24T15:32:58.124000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:32:58.302000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857643466305699841",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:28:56.612000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857643465016868916",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Currently sitting at a measly 7% gains but we do have 4 open trades so fingers crossed we can close out some good plays today",
+                        "timestamp": "2021-06-24T15:28:56.170000+00:00",
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/834460425772466176/857643459383918592/Screenshot_2021-06-24_082824.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/834460425772466176/857643459383918592/Screenshot_2021-06-24_082824.png",
+                            "width": 658,
+                            "height": 210
+                        },
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:28:56.305000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857643158883401739",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:27:43.317000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857643157813198858",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":zap: New Day Trade :zap:",
+                        "description": "Longer day trade AUUD Entry 3.48 SL set to 3.40 PT 3.60 \nLooks like a solid consolidation with good support, will be looking for this one to rise after lunch hour",
+                        "color": 1688319,
+                        "timestamp": "2021-06-24T15:27:42.870000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:27:43.062000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857638749595500604",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:10:12.061000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857638748292382771",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Hey everyone! **We still have a few openings for our mentorship program** for July! Make sure to secure a spot if you are interested in learning the ins and outs of Momentum Day Trading or Day Trading in general! All skill levels welcome! \n\nHere is my trade log for anyone who missed it! \nhttps://tinyurl.com/moneybagstradetracker \n\n\nSome things we do in the mentorship:\n- Fill in the knowledge gaps\n- Find a sound trading plan that works for you\n- Answer all questions you have related to day trading\n- Set you up for success with day trading\n- 1 on 1 sessions and progress checks \n-  Access to our monthly classes for free \n\n*as a side note* \nClass 3 is now open and we are taking payment for spots to the class! In this class we will be going over:\n- Technical analysis Indicator Types\n- Specific indicators used by day traders\n- My Day Trader Indicators and the values\n- Entry and Exit strategies I use \n- Importance of Volume and ways to interpret it\n\nThe class is $30 USD\nIt will be held over zoom I have 100 spots available, whether or not you are able to make the live class I will be giving out the recording to everyone who attends / pays for the class",
+                        "timestamp": "2021-06-24T15:10:11.624000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:10:11.750000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857636684719718440",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:01:59.756000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857636682629906462",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":zap: New Day Trade :zap:",
+                        "description": "ORPH longer day trade 8.10 entry SL 7.80 PT 8.60+",
+                        "color": 1688319,
+                        "timestamp": "2021-06-24T15:01:59.038000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T15:01:59.258000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857634483091013642",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:53:14.847000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857634481517887549",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":zap: New Day Trade :zap:",
+                        "description": "MRIN Longer Day trade 2.60 entry SL set to 2.45 PT 3",
+                        "color": 1688319,
+                        "timestamp": "2021-06-24T14:53:14.324000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:53:14.472000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857633365771157534",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:48:48.457000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857633363607552011",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "OSW longer term day trade, maybe hold for a while today 10.60 entry SL set to 10.30 PT 11",
+                        "timestamp": "2021-06-24T14:48:47.709000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:48:47.941000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857630269572775936",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:36:30.266000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857630268516859924",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Sl set to 5.30 PT 5.60",
+                        "timestamp": "2021-06-24T14:36:29.869000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:36:30.014000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857630195107364874",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:36:12.512000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857630193811456020",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "entering TRCH 5.40",
+                        "timestamp": "2021-06-24T14:36:12.008000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:36:12.203000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857627653082841099",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:26:06.446000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857627651871080499",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "FULC Entry 9.83",
+                        "timestamp": "2021-06-24T14:26:05.957000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:26:06.157000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857627035659927553",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:23:39.241000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857627034637434900",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":small_orange_diamond: Update :small_orange_diamond:",
+                        "description": "Exiting OSW still nothing with any momentum not wanting to take a stop on it",
+                        "color": 16762880,
+                        "timestamp": "2021-06-24T14:23:38.750000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:23:38.997000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857626705271193640",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:22:20.470000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857626703739748392",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "DBGI entry here 6.50 SL set to 6.30",
+                        "timestamp": "2021-06-24T14:22:19.965000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:22:20.105000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857626525242359828",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:21:37.548000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857626523627945985",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "OSW Entry 10.70",
+                        "timestamp": "2021-06-24T14:21:37.072000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:21:37.163000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625970009964544",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:19:25.170000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625968335388693",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Potential Entry on TRCH waiting for confirmation, Today has been really slow lol",
+                        "timestamp": "2021-06-24T14:19:24.630000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:19:24.771000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625612348948500",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:17:59.897000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625611119099934",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":octagonal_sign: Stopped Out :octagonal_sign:",
+                        "description": "AUUD 3.72",
+                        "color": 16711680,
+                        "timestamp": "2021-06-24T14:17:59.461000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:17:59.604000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625055613026314",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:15:47.161000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857625054320525343",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "GTT no good entry",
+                        "timestamp": "2021-06-24T14:15:46.745000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:15:46.853000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857624721183866880",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:14:27.427000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857624719423832085",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Potential entry on GTT 2.74 If MACD breaks, Will let you know",
+                        "timestamp": "2021-06-24T14:14:26.879000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:14:27.007000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857624214004695061",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:12:26.506000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857624212395393024",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "potential entry on ORPH at 8.20 Waiting for MACD break",
+                        "timestamp": "2021-06-24T14:12:25.831000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:12:26.122000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857621314173009920",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:00:55.132000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857621312847478814",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":zap: New Day Trade :zap:",
+                        "description": "AUUD breaks entry 3.82",
+                        "color": 1688319,
+                        "timestamp": "2021-06-24T14:00:54.651000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:00:54.816000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857621251673686046",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:00:40.231000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857621250485387274",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "AUUD is attempting to break MACD again possible entry around 3.80 we will see",
+                        "timestamp": "2021-06-24T14:00:39.706000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T14:00:39.948000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857620281359204383",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:56:48.890000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857620280243126273",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Same with AUUD",
+                        "timestamp": "2021-06-24T13:56:48.524000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:56:48.624000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857620189117677568",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:56:26.898000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857620187912863764",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "ARAV and MRIN both crossed VWAP but MACD never broke through so we stayed out",
+                        "timestamp": "2021-06-24T13:56:26.470000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:56:26.611000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619346532204594",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:53:06.010000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619345303928902",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Did not break MACD we stay out u",
+                        "timestamp": "2021-06-24T13:53:05.569000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:53:05.717000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619096551948308",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:52:06.410000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619095088398336",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Ill enter as it breaks MACD here",
+                        "timestamp": "2021-06-24T13:52:05.958000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:52:06.061000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619071130140693",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:52:00.349000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857619068755247114",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "AUUD breaking VWAP here buy at 3.78 SL set to 3.70",
+                        "timestamp": "2021-06-24T13:51:59.501000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:51:59.783000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617690725580860",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:31.235000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617689408307220",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "once it breaks VWAP I want it",
+                        "timestamp": "2021-06-24T13:46:30.777000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:30.921000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617633683046420",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:17.635000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617632580075570",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "SL set to 3.14",
+                        "timestamp": "2021-06-24T13:46:17.278000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:17.372000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617614590705704",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:13.083000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617612716113970",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "MRIN 3.19",
+                        "timestamp": "2021-06-24T13:46:12.492000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:46:12.636000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617328299966474",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:45:04.826000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617326341619713",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "exited 6.80",
+                        "timestamp": "2021-06-24T13:45:04.228000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:45:04.359000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617174800367616",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:44:28.229000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617173085814825",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "SL set to 6.50",
+                        "timestamp": "2021-06-24T13:44:27.742000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:44:27.820000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617121251688499",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:44:15.462000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857617119842795522",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "ARAV entry 6.60",
+                        "timestamp": "2021-06-24T13:44:14.991000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:44:15.126000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857616472004493323",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:41:40.669000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857616470884220968",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Taking profits 5.15 on TRCH",
+                        "timestamp": "2021-06-24T13:41:40.239000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:41:40.402000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857615685681020938",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:38:33.195000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857615684528111696",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "SL set to 4.90 PT 1 5.10 PT 2 5.20",
+                        "timestamp": "2021-06-24T13:38:32.757000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:38:32.920000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857615608337661983",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:38:14.755000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857615607339286548",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "Entering TRCH 5.00",
+                        "timestamp": "2021-06-24T13:38:14.324000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:38:14.517000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857614862930804776",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:35:17.036000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857614861257146391",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "wait for the MACD to signal entry",
+                        "timestamp": "2021-06-24T13:35:16.552000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:35:16.637000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857614820870324255",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:35:07.008000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857614819758047232",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": ":zap: New Day Trade :zap:",
+                        "description": "\ud83d\udcd1 | **Ticker:** ARAV\n\ud83d\udd00 | **Trade:** Day Trade\n\u2733\ufe0f | **PE:** $6.70 ish\n\ud83c\udfaf | **PT1:** $ 6.90\n\ud83c\udfaf | **PT2:** $ 7.20\n\ud83d\uded1 | **SL:** $ 6.50\n\n**Comments: ** \n\n*Remember to set those Stop Losses and don't get too greedy, take profits where you can. Don't solely rely on PTs to hit*",
+                        "color": 1688319,
+                        "timestamp": "2021-06-24T13:35:06.568000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:35:06.743000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857610922809360414",
+                "type": 0,
+                "content": "<@&834434264477073428>",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [],
+                "mentions": [],
+                "mention_roles": [
+                    "834434264477073428"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:19:37.638000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "857610921563389952",
+                "type": 0,
+                "content": "",
+                "channel_id": "817816874993451038",
+                "author": {
+                    "id": "830495505418027100",
+                    "username": "MoneyBags MoneyBot",
+                    "avatar": "3dd77ed691a0d2a9c4f1e1e1a4ffdb14",
+                    "discriminator": "9597",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "description": "good morning ladies and gentlemen, todays watchlist:\nMRIN\nARAV\nGTT\nDHX\nAGTC",
+                        "timestamp": "2021-06-24T13:19:37.030000+00:00",
+                        "footer": {
+                            "text": "\u00a9  R2R Analytics, 2021 \u2726 For informational purposes only; not financial or investment advice",
+                            "icon_url": "https://cdn.discordapp.com/attachments/830870496999637023/852934611163676682/unknown.png",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/830870496999637023/852934611163676682/unknown.png"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-24T13:19:37.341000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "5513b7a36f60238b9936358813ff8292"
+}

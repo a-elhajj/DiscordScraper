@@ -1,0 +1,510 @@
+{
+    "total_results": 12,
+    "messages": [
+        [
+            {
+                "id": "859151888024338483",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC FB 350P 7/2\nClosing position. All out from 2.55 to 3.35",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T19:22:48.568000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T19:22:52.375000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859149162296770611",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC FB 350P 7/2\nTrim at 3.35, set SL to breakeven. This one moved fast, hope you were able to get in it.",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T19:11:57.943000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T19:12:02.511000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859148685542555669",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC FB 350P 7/2\nTrim at 2.95, set SL to breakeven",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T19:10:07.352000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T19:10:08.844000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859148229391941702",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "BTO FB 350P 7/2\nEntry= 2.55",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T19:08:17.373000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T19:08:20.089000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859101661824942080",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "$ETSY nearing PT2 (200). Alerted at 163",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T16:03:09.675000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T16:03:17.516000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859084717085032449",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "SPY 420P Swing average at 3.60. Setting SL at 2.80 if you are still holding this",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T14:55:50.319000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:55:57.575000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859083016315338812",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "$WNW PT hit",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T14:49:10.469000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:49:12.080000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859082259118161930",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "$WNW HIGH RISK DAYTRADE\nEntry= 8  \nPT1= 8.20\nSL= 7.80",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T14:46:09.314000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:46:11.550000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859071429251956746",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC ROKU 430P 7/2\nAll out from 9 to 10 ($100 gain per contract)",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T14:03:07.699000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:03:09.509000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859067362752856084",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "STC ROKU 430P 7/2\nTrim at 10, set SL to breakeven",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T13:46:58.316000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T13:46:59.980000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859066156474957824",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "SPY swing looking good if you averaged down with me",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T13:42:09.407000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T13:42:12.381000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859064621943881768",
+                "type": 0,
+                "content": "<@&838951255770529862>",
+                "channel_id": "838942842000637992",
+                "author": {
+                    "id": "821163761262919701",
+                    "username": "Stonk King Alerts",
+                    "avatar": "6893b0f14941a50476043454aef0f5cf",
+                    "discriminator": "3191",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "BTO ROKU 430P 7/2 HIGH RISK\nEntry= 9",
+                        "color": 15415860,
+                        "timestamp": "2021-06-28T13:36:02.413000+00:00",
+                        "footer": {
+                            "text": "\u00a9 Stock Trading Guild, 2021",
+                            "icon_url": "https://cdn.discordapp.com/attachments/821117570496069652/841863210311090196/logo_final.JPG",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/821117570496069652/841863210311090196/logo_final.JPG"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "838951255770529862"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T13:36:06.520000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "0c27bbff7106129d5f8edbcec0b0367d"
+}

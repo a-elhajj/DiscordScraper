@@ -1,0 +1,48 @@
+{
+    "total_results": 1,
+    "messages": [
+        [
+            {
+                "id": "860127623664369674",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "Update",
+                        "description": "**\ud83d\udcb0 Ticker:** AYRO\n\n**\ud83d\udcac Comments:** Hit 6.19 pre market. Watch at open. Let\u2019s go!!!",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-07-01T12:00:05.880000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "7e96d749386c1a631174713c6e407974"
+}

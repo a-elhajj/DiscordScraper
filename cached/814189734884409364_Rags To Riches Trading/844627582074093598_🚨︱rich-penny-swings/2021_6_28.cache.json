@@ -1,0 +1,222 @@
+{
+    "total_results": 5,
+    "messages": [
+        [
+            {
+                "id": "859073952113360926",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "Update",
+                        "description": "**\ud83d\udcb0 Ticker:** SENS\n\n**\ud83d\udcac Comments:** 12% gains. Pick your poison to take profit on whichever swing you in",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:13:11.006000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859073794126905355",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "Update",
+                        "description": "**\ud83d\udcb0 Ticker:** FSR\n\n**\ud83d\udcac Comments:** **66%** gains. Let\u2019s go!!!",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:12:33.339000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859073066821746701",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "Update",
+                        "description": "**\ud83d\udcb0 Ticker:** WKHS\n\n**\ud83d\udcac Comments:** Up 20%. Let\u2019s go!",
+                        "color": 3066993,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:09:39.936000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859072952297717800",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Weekly/Daily Recap**",
+                        "description": "**\ud83d\uddd3 Date:** 6/28",
+                        "color": 3447003,
+                        "image": {
+                            "url": "https://cdn.discordapp.com/attachments/837003948777930822/859072948103151656/image0.png",
+                            "proxy_url": "https://media.discordapp.net/attachments/837003948777930822/859072948103151656/image0.png",
+                            "width": 1284,
+                            "height": 1886
+                        },
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:09:12.631000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ],
+        [
+            {
+                "id": "859072815016574976",
+                "type": 0,
+                "content": "<@&843872742737575958>",
+                "channel_id": "844627582074093598",
+                "author": {
+                    "id": "836980541776724048",
+                    "username": "Rich Penny",
+                    "avatar": "13e1531f3b1b71c2c83ca0c40f342f34",
+                    "discriminator": "4982",
+                    "public_flags": 0,
+                    "bot": true
+                },
+                "attachments": [],
+                "embeds": [
+                    {
+                        "type": "rich",
+                        "title": "**Weekly/Daily Recap**",
+                        "description": "**\ud83d\uddd3 Date:** 6/28",
+                        "color": 3447003,
+                        "footer": {
+                            "text": "Stay Clutch",
+                            "icon_url": "https://cdn.discordapp.com/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif",
+                            "proxy_icon_url": "https://media.discordapp.net/attachments/836297990318063687/845265279625199626/LOGO-GIF-V2.gif"
+                        }
+                    }
+                ],
+                "mentions": [],
+                "mention_roles": [
+                    "843872742737575958"
+                ],
+                "pinned": false,
+                "mention_everyone": false,
+                "tts": false,
+                "timestamp": "2021-06-28T14:08:39.901000+00:00",
+                "edited_timestamp": null,
+                "flags": 0,
+                "components": [],
+                "hit": true
+            }
+        ]
+    ],
+    "analytics_id": "c57e190e2068cfede80910c53b664db9"
+}
