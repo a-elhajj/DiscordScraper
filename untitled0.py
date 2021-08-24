@@ -7,9 +7,9 @@ Created on Tue Jun 29 12:58:13 2021
 """
 
 """
-Application ID: 859477833759719425
-Public Key: a41fc154fd3ad7948f456e5a7b99bcada62042b400982723eb6a98872b971d55
-Token: ODU5NDc3ODMzNzU5NzE5NDI1.YNtRGw.QLWTlX3GS9OBcvIFYFi7njRJCYo
+Application ID: HERE
+Public Key: HERE
+Token: HERE
 """
 
 
